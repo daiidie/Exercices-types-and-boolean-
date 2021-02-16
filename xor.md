@@ -1,5 +1,3 @@
-Table de vérité XOR (ou explusif):
-
 **Table de vérité OR classique**:
 | a | b | a OR b |
 |---|---|---------|
@@ -7,5 +5,3 @@ Table de vérité XOR (ou explusif):
 | 0 | 1 | 1 |
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
-
-
