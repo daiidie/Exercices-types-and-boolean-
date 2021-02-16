@@ -8,12 +8,4 @@ Table de vérité XOR (ou explusif):
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
 
-**Table de vérité `||` JS**:
-
-| a       | b       | a `\|\|` b |
-| ------- | ------- | ---------- |
-| `false` | `false` | `false`    |
-| `false` | `true`  | `true`     |
-| `true`  | `false` | `true`     |
-| `true`  | `true`  | `tru`      |
 
