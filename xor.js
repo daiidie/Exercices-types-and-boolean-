@@ -1,6 +1,8 @@
-let isFull = false
-if (isFull) {
-  console.log('Vider')
-} else {
-  console.log('remplir')
-}
+let a = true 
+let b = false
+
+if  
+
+if ((a && !b) || (!a && b)) { 
+  console.log(true) }
+ if else  (console.log false)
